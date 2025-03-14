@@ -6,8 +6,7 @@ Di halaman utama ini, pengguna dapat melihat berbagai layanan yang ditawarkan ol
 
 🔹 Bagian Utama
 
-Banner promosi yang menampilkan Paket Bundling Terbaik Bulan Ini, yang mencakup beberapa paket pilihan seperti Full Set, Cook Set, dan Camping Set.
-Akses cepat ke berbagai fitur aplikasi seperti Wishlist, Chat, Transaction, dan Cart.
+Banner promosi yang menampilkan Paket Bundling Terbaik Bulan Ini, yang mencakup beberapa paket pilihan seperti Full Set, Cook Set, dan Camping Set serta tombol untuk melihat detail produk.
 
 🔹 Navigasi Utama
 
