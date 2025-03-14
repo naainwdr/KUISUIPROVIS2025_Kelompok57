@@ -29,4 +29,21 @@ Halaman ini memungkinkan pengguna untuk berkomunikasi langsung dengan admin atau
 - Opsi mengirim pesan, gambar, vidio dan lain sebagainya.
 
 ![cart](https://github.com/user-attachments/assets/91a66fef-091f-4580-832b-efcc07b2ecc1)
+---
+Di halaman ini, pengguna bisa melihat semua item yang telah ditambahkan untuk disewa sebelum melanjutkan ke proses order.
+
+🔹 Bagian Utama
+
+- List produk yang ada di keranjang.
+- Tombol pada bagian atas kanan di setiap produk untuk memilih produk yang akan di order
+- Tombol ‘Order’ untuk melanjutkan ke tahap penyewaan.
+
 ![wishlist](https://github.com/user-attachments/assets/2a2788ec-e527-46a0-93b5-ac5a47e99eee)
+---
+Halaman Wishlist memungkinkan pengguna menyimpan produk yang mereka inginkan untuk disewa di lain waktu.
+
+🔹 Bagian Utama
+
+- Daftar produk yang ditambahkan ke wishlist, termasuk gambar, nama, harga sewa dan stok.
+- Tombol ‘+ Add To Cart’ untuk langsung memasukkan produk ke cart.
+- Tombol icon ‘Hapus’ jika pengguna tidak lagi tertarik dengan produk tersebut.
