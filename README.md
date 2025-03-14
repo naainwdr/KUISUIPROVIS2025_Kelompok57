@@ -19,5 +19,14 @@ Akses cepat ke berbagai fitur aplikasi seperti Wishlist, Chat, Transaction, dan 
 
 ----
 ![chat](https://github.com/user-attachments/assets/87023924-d905-488c-82d0-b5e8e76691c2)
+---
+Halaman ini memungkinkan pengguna untuk berkomunikasi langsung dengan admin atau penyedia layanan penyewaan alat kemah.
+
+🔹 Fitur Utama
+
+- Daftar chat aktif dengan admin.
+- Balon chat yang menunjukkan percakapan pengguna.
+- Opsi mengirim pesan, gambar, vidio dan lain sebagainya.
+
 ![cart](https://github.com/user-attachments/assets/91a66fef-091f-4580-832b-efcc07b2ecc1)
 ![wishlist](https://github.com/user-attachments/assets/2a2788ec-e527-46a0-93b5-ac5a47e99eee)
