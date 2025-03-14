@@ -47,17 +47,13 @@ Halaman ini memungkinkan pengguna untuk berkomunikasi langsung dengan admin atau
 ---
 Halaman ini digunakan untuk melihat status transaksi dan pemantauan pengembalian alat bagi pengguna yang melakukan penyewaan:
 
-🔹Filter Status Transaksi:
+🔹Status Transaksi:
 - Dibatalkan → Menampilkan transaksi yang dibatalkan.
 - Belum Diambil → Daftar barang yang telah dipesan tetapi belum diambil.
 - Belum Dikembalikan → Barang yang masih dipinjam oleh pengguna.
 - Selesai → Transaksi yang telah selesai dilakukan.
-  
-🔹Daftar Transaksi Berjalan: Setiap item transaksi ditampilkan dengan gambar, nama barang, jumlah, serta tanggal transaksi.
 
 🔹Monitoring Pengembalian Alat: Berisi daftar alat yang sedang disewa dengan informasi jumlah dan tenggat waktu pengembalian.
-
-🔹Indikator Status:
 - Ikon jam menandakan barang belum dikembalikan.
 - Ikon centang hijau menunjukkan bahwa barang telah dikembalikan sesuai tenggat.
   
