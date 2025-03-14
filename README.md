@@ -11,11 +11,11 @@ Akses cepat ke berbagai fitur aplikasi seperti Wishlist, Chat, Transaction, dan 
 
 🔹 Navigasi Utama
 
-Home: Kembali ke halaman utama.
-Wishlist: Menyimpan item yang ingin disewa nanti.
-Chat: Berkomunikasi langsung dengan padmin.
-Transaction: Melihat status transaksi penyewaan.
-Cart: Melihat daftar barang yang sudah siap untuk disewa.
+- Home: Kembali ke halaman utama.
+- Wishlist: Menyimpan item yang ingin disewa nanti.
+- Chat: Berkomunikasi langsung dengan padmin.
+- Transaction: Melihat status transaksi penyewaan.
+- Cart: Melihat daftar barang yang sudah siap untuk disewa.
 
 ----
 ![chat](https://github.com/user-attachments/assets/87023924-d905-488c-82d0-b5e8e76691c2)
