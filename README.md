@@ -2,7 +2,7 @@
 
 ![home1](https://github.com/user-attachments/assets/ce0e6f74-c285-4412-89bf-95ddefc2eb76)
 ---
-Di halaman utama ini, pengguna dapat melihat berbagai layanan yang ditawarkan oleh Tendaku yang merupakan platform penyewaan alat perkemah.
+Di halaman utama ini, pengguna dapat melihat berbagai layanan yang ditawarkan oleh Tendaku yang merupakan platform penyewaan alat perkemahan.
 
 🔹 Bagian Utama
 
@@ -20,7 +20,7 @@ Akses cepat ke berbagai fitur aplikasi seperti Wishlist, Chat, Transaction, dan 
 ----
 ![chat](https://github.com/user-attachments/assets/87023924-d905-488c-82d0-b5e8e76691c2)
 ---
-Halaman ini memungkinkan pengguna untuk berkomunikasi langsung dengan admin atau penyedia layanan penyewaan alat kemah.
+Halaman ini memungkinkan pengguna untuk berkomunikasi langsung dengan admin atau penyedia layanan penyewaan alat perkemahan.
 
 🔹 Fitur Utama
 
